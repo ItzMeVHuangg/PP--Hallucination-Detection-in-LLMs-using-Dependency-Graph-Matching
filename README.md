@@ -102,8 +102,8 @@ Fuzzy string matching (`rapidfuzz`) is used for soft token alignment to handle m
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/hallucination-detection-dgm.git
-cd hallucination-detection-dgm
+git clone https://github.com/ItzMeVHuangg/PP--Hallucination-Detection-in-LLMs-using-Dependency-Graph-Matching.git
+cd PP--Hallucination-Detection-in-LLMs-using-Dependency-Graph-Matching
 
 # Create virtual environment
 python -m venv venv
